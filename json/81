@@ -1,0 +1,47 @@
+{
+  "dna": "adcf638890dc7ba3a2c755bdb212eeb0c0986cd099e3379241229628674ce4ed",
+  "name": "Lowrider #81",
+  "description": "Like a dog and its bone, a gangsta needs a lowrider. Canine Cartel Lowriders will keep you riding in style -- with chrome rims, fresh paint, and some Schedule A in the trunk.\n  \n  5000 NFTs created as part of the Canine Cartel NFT collection. Woof Woof!",
+  "image": "https://bo.caninecartel.dog/uploads/lowriders-data/images/81.png",
+  "imageHash": "e3687d1ffe4c33d8c769c58b3de1c058a3db6276b121c41a075929d054a072ca",
+  "edition": 81,
+  "date": 1642300006658,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "White Raised"
+    },
+    {
+      "trait_type": "Ornament",
+      "value": "Yellow Diamond"
+    },
+    {
+      "trait_type": "Rear",
+      "value": "Yellow Spoiler"
+    },
+    {
+      "trait_type": "Grille",
+      "value": "Chrome Billet"
+    },
+    {
+      "trait_type": "Lower Grille",
+      "value": "Chrome"
+    },
+    {
+      "trait_type": "Headlights",
+      "value": "Squares"
+    },
+    {
+      "trait_type": "Rims",
+      "value": "Phantom"
+    },
+    {
+      "trait_type": "Sides",
+      "value": "Green Runner"
+    }
+  ]
+}
