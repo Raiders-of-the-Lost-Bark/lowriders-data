@@ -1,0 +1,35 @@
+{
+  "dna": "5a8f5f8b2f93b2c6c96d70df41f7085de4da0e9d977170fb5fa47a0f4a1fa6c8",
+  "name": "Lowrider #2501",
+  "description": "Like a dog and its bone, a gangsta needs a lowrider. Canine Cartel Lowriders will keep you riding in style -- with chrome rims, fresh paint, and some Schedule A in the trunk.\n  \n  5000 NFTs created as part of the Canine Cartel NFT collection. Woof Woof!",
+  "image": "https://raw.githubusercontent.com/Raiders-of-the-Lost-Bark/lowriders-data/master/images/2501.png",
+  "imageHash": "1ac6c24e7a9257080aa7f829d4743286a4c04cebbcabd3075d26f6d45859ef9e",
+  "edition": 2501,
+  "date": 1642300269952,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Grille",
+      "value": "Chrome Billet"
+    },
+    {
+      "trait_type": "Lower Grille",
+      "value": "Black Billet"
+    },
+    {
+      "trait_type": "Headlights",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Rims",
+      "value": "Gold Mesh"
+    },
+    {
+      "trait_type": "Sides",
+      "value": "Blue Runner"
+    }
+  ]
+}
